@@ -1,4 +1,4 @@
-# ProdigyInfoTech-CyberSecurity-Internship-Task-02
+# ProdigyInfoTech-CyberSecurity-Internship-Project-02
 Task 02: Image Encryption using Pixel Manipulation 
 
 This project is part of the **Prodigy InfoTech Cyber Security Internship**.  
